@@ -1,6 +1,6 @@
 [
   { "text": "» Novedades en el Software VIP", "color": "Lime", "bold": true },
-  { "text": "» Server CPID Xiaomi: off", "color": "Red", "bold": true },
+  { "text": "» Servidor CPID Xiaomi: off", "color": "Red", "bold": true },
   { "text": "» Lectura / Escritura, Critical Data Qualcomm.", "color": "Yellow", "bold": true },
   { "text": "» Edición / Creación, Critical Data, XIAOMI / REDMI.", "color": "Cyan", "bold": true },
   { "text": "» Parchar oem info / PayJoy, Movistar, Claro, etc.", "color": "Violet", "bold": true },
