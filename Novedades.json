@@ -2,7 +2,7 @@
   { "text": "» Novedades en el Software VIP", "color": "Lime", "bold": true },
   { "text": "» Servidor CPID Xiaomi: off", "color": "Red", "bold": true },
 
-  { "text": "» Colaboración con MultiUnlockMDM, acceso gratuito por tiempo determinado, mayor información en la opcion: NOVEDADES", "color": "Yellow", "bold": true },
+  { "text": "» Colaboración con MultiUnlockMDM, acceso gratuito por tiempo determinado, mayor información en la opción: NOVEDADES", "color": "Yellow", "bold": true },
   { "text": "» Extracción / Escritura, Particiones Xiaomi Eng Firmware.", "color": "Cyan", "bold": true },
   { "text": "» Extracción / Escritura, Particiones Root.", "color": "Violet", "bold": true },
 
@@ -15,3 +15,4 @@
   { "text": "» Modificación directa SN / Root requerido.", "color": "Yellow", "bold": false },
   { "text": "» Eliminar Bloqueo Claro / Telcel V2 Nueva Seguridad.", "color": "Cyan", "bold": true }
 ]
+
