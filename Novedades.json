@@ -1,6 +1,6 @@
 [
   { "text": "» Novedades en el Software VIP", "color": "Lime", "bold": true },
-  { "text": "» Fix Bancos, Yape / Método 4 (Diciembre 2025) ahora compatible con las últimas versiones apps bancarias.", "color": "Violet", "bold": true },
+  { "text": "» Fix Bancos, Yape / Método 4 (Diciembre 2025) ahora compatible con las últimas versiones apps bancarias.", "color": "Orange", "bold": true },
   { "text": "» Servidor CPID Xiaomi: off", "color": "Red", "bold": true },
 
   { "text": "» Colaboración con MultiUnlockMDM, acceso gratuito por tiempo determinado, mayor información en la opción: NOVEDADES", "color": "Yellow", "bold": true },
@@ -9,10 +9,8 @@
 
   { "text": "» Lectura / Escritura, Critical Data Qualcomm.", "color": "Yellow", "bold": true },
   { "text": "» Parchar oem info / PayJoy, Movistar, Claro, etc.", "color": "Cyan", "bold": true },
-  { "text": "» Fix Yape, Método 3, Exynos, Mediatek", "color": "Violet", "bold": true },
-  { "text": "» Habilitar SIM 2, Gratis para los dispositivos A55 5G, S24 FE, S24, S24+, S24 Ultra.", "color": "Cyan", "bold": true },
-  { "text": "» Fix WhatsApp No Official / Root requerido.", "color": "Violet", "bold": true },
-  { "text": "» Modificación directa SN / Root requerido.", "color": "Yellow", "bold": false },
-  { "text": "» Eliminar Bloqueo Claro / Telcel V2 Nueva Seguridad.", "color": "Cyan", "bold": true }
+  { "text": "» Habilitar SIM 2, Gratis para los dispositivos A55 5G, S24 FE, S24, S24+, S24 Ultra.", "color": "Violet", "bold": true },
+  { "text": "» Fix WhatsApp No Official / Root requerido.", "color": "Yellow", "bold": true },
+  { "text": "» Modificación directa SN / Root requerido.", "color": "Cyan", "bold": false },
+  { "text": "» Eliminar Bloqueo Claro / Telcel V2 Nueva Seguridad.", "color": "Violet", "bold": true }
 ]
-
