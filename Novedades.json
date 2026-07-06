@@ -1,8 +1,8 @@
 [
   { "text": "» Novedades en el Software MOVISUR VIP", "color": "Lime", "bold": true },
     { "text": "» Fix Yape / Método 5, compatible con últimas versiones Yape, aprovechen...", "color": "Orange", "bold": true },
-  { "text": "» Potente gestor de aplicaciones, incluye Forzar desinstalación.", "color": "Yellow", "bold": true },
-  { "text": "» Fix Bancos, Yape / Método 4.", "color": "Cyan", "bold": true },
+  { "text": "» Potente gestor de aplicaciones, incluye Forzar desinstalación.", "color": "Cyan", "bold": true },
+  { "text": "» Fix Bancos, Yape / Método 4.", "color": "Violet", "bold": true },
   { "text": "» Colaboración con MultiUnlockMDM, acceso gratuito por tiempo determinado, mayor información en la opción: NOVEDADES", "color": "Yellow", "bold": true },
   { "text": "» Extracción / Escritura, Particiones Xiaomi Eng Firmware.", "color": "Cyan", "bold": true },
   { "text": "» Extracción / Escritura, Particiones Root.", "color": "Violet", "bold": true },
